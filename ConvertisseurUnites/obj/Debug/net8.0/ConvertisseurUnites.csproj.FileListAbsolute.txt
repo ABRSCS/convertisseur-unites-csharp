@@ -1,0 +1,14 @@
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/bin/Debug/net8.0/ConvertisseurUnites
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/bin/Debug/net8.0/ConvertisseurUnites.deps.json
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/bin/Debug/net8.0/ConvertisseurUnites.runtimeconfig.json
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/bin/Debug/net8.0/ConvertisseurUnites.dll
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/bin/Debug/net8.0/ConvertisseurUnites.pdb
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/obj/Debug/net8.0/ConvertisseurUnites.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/obj/Debug/net8.0/ConvertisseurUnites.AssemblyInfoInputs.cache
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/obj/Debug/net8.0/ConvertisseurUnites.AssemblyInfo.cs
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/obj/Debug/net8.0/ConvertisseurUnites.csproj.CoreCompileInputs.cache
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/obj/Debug/net8.0/ConvertisseurUnites.dll
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/obj/Debug/net8.0/refint/ConvertisseurUnites.dll
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/obj/Debug/net8.0/ConvertisseurUnites.pdb
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/obj/Debug/net8.0/ConvertisseurUnites.genruntimeconfig.cache
+/Users/ab/Documents/Proj devweb/unit-converter-csharp/ConvertisseurUnites/ConvertisseurUnites/obj/Debug/net8.0/ref/ConvertisseurUnites.dll
