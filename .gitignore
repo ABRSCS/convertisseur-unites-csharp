@@ -1,0 +1,12 @@
+bin/
+obj/
+**/bin/
+**/obj/
+
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.db
+*.DS_Store
